@@ -3,3 +3,11 @@
 ################################################################################
 
 /minirsa-vs/.vs/minirsa-vs/v16
+/minirsa-vs/Debug
+/minirsa-vs/minirsa/Debug
+/minirsa-vs/minirsa/Release
+/minirsa-vs/minirsa/x64
+/minirsa-vs/minirsa-test/Debug
+/minirsa-vs/minirsa-test/Release
+/minirsa-vs/minirsa-test/x64
+/minirsa-vs/x64/Debug
